@@ -1,0 +1,96 @@
+{
+    "sales": [
+        {
+            "region": "China",
+            "volume": 200,
+            "transactions": [
+                {
+                    "date": "2021/03/10",
+                    "volume": 50
+                },
+                {
+                    "date": "2021/03/10",
+                    "volume": 20
+                },
+                {
+                    "date": "2021/03/10",
+                    "volume": 100
+                },
+                {
+                    "date": "2021/03/10",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "region": "India",
+            "volume": 120,
+            "transactions": [
+                {
+                    "date": "2021/01/10",
+                    "volume": 10
+                },
+                {
+                    "date": "2021/02/10",
+                    "volume": 40
+                },
+                {
+                    "date": "2021/03/10",
+                    "volume": 60
+                },
+                {
+                    "date": "2021/04/10",
+                    "volume": 100
+                },
+                {
+                    "date": "2021/05/10",
+                    "volume": 10
+                }
+            ]
+        },
+        {
+            "region": "USA",
+            "volume": 280,
+            "transactions": [
+                {
+                    "date": "2021/01/10",
+                    "volume": 90
+                },
+                {
+                    "date": "2021/02/10",
+                    "volume": 55
+                },
+                {
+                    "date": "2021/03/10",
+                    "volume": 45
+                },
+                {
+                    "date": "2021/04/10",
+                    "volume": 100
+                }
+            ]
+        },
+        {
+            "region": "Japan",
+            "volume": 220,
+            "transactions": [
+                {
+                    "date": "2021/01/10",
+                    "volume": 80
+                },
+                {
+                    "date": "2021/02/10",
+                    "volume": 10
+                },
+                {
+                    "date": "2021/03/10",
+                    "volume": 10
+                },
+                {
+                    "date": "2021/04/10",
+                    "volume": 120
+                }
+            ]
+        }
+    ]
+}
